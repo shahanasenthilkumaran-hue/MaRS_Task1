@@ -7,7 +7,7 @@ This program controls three LEDs to blink at different time intervals using the 
 Each LED has its own timing condition, ensuring independent operation. 
 
 #SectionA_Q2_Controlling colour of RGB LED and blinking speed of another LED with potentiometer
-https://www.tinkercad.com/things/cFUACVuef3O/editel?returnTo=%2Fdashboard&sharecode=eQO4wGVY7o2YswH7Us-lh6Vho2kYr8MMOuh0Rmtn8hc&sharecode=eQO4wGVY7o2YswH7Us-lh6Vho2kYr8MMOuh0Rmtn8hc
+https://www.tinkercad.com/things/cFUACVuef3O-seca-q2?sharecode=eb9gHASjSHDEmEbOfSPzd0kHMaqVAzdv5gk-9qFRYOc 
 
 This program uses a potentiometer to control the colour of an RGB LED and the blinking speed of another LED. 
 The analog value from the potentiometer is read using analogRead() and mapped to PWM values using analogWrite() to adjust LED brightness and color. The same input also controls blinking speed dynamically. 
